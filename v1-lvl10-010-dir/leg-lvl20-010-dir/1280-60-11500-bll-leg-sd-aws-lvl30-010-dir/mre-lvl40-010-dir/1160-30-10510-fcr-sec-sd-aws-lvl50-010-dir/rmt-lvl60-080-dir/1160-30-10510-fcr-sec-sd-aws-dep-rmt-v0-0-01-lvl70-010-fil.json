@@ -1,0 +1,10 @@
+{
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "none",
+  "resourceNameKEY": "jump-base-pem-ssh-key-1160-30-sec-sd",
+  "ifqridKEY": "1160-30-10510-fcr-sec-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1160-30-10510-fcr-sec-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber11500KEY": "10510",
+  "deletionProtectionFlag11500KEY": "none"
+}

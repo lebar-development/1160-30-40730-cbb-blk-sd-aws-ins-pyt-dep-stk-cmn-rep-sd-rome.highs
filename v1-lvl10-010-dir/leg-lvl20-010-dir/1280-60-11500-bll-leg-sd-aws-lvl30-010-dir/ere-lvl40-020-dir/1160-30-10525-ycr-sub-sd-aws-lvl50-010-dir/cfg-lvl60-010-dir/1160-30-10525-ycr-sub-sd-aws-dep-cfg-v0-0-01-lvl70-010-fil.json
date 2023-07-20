@@ -1,0 +1,15 @@
+{
+  "resourceMetadataKEY": "yes",
+  "ipv4CIDRIDKEY": "10.10.176.0/21",
+  "resourceTagKEY": {
+    "aliasNameKEY": "none",
+    "botNameKEY": "jump-ami-bot-name",
+    "cfqridTAG": "1160-30-10525-ycr-sub-sd-aws",
+    "resourceTypeKEY": "sub",
+    "blockNumberKEY": "1160-30",
+    "applicationNameKEY": "sambar",
+    "environmentIDKEY": "sd",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "sdk"
+  }
+}
