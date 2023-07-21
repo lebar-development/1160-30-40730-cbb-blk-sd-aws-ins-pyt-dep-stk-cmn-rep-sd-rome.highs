@@ -1,5 +1,5 @@
 {
-  "resourceMetadataKEY": "yes",
+  "resourceMetadataKEY": "no",
   "operatingSystemNameKEY": "galactic os",
   "operatingSystemVersionNumberKEY": "20.04",
   "k8sClusterNameKEY": "sambar-dev-1320-10-ctr-sd-aws",

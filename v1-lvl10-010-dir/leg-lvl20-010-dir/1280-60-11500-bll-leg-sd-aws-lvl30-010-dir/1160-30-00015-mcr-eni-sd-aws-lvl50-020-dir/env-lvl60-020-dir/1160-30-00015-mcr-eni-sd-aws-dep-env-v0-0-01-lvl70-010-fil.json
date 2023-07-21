@@ -5,6 +5,7 @@
   "regionAreaNameKEY": "europe",
   "regionNameKEY": "london",
   "regionCodeKEY": "eu-west-2",
+  "aAvaliabilityZoneCodeKEY": "eu-west-2a",
   "serviceNameKEY": "ec2",
   "serviceTypeKEY": "regional"
 }

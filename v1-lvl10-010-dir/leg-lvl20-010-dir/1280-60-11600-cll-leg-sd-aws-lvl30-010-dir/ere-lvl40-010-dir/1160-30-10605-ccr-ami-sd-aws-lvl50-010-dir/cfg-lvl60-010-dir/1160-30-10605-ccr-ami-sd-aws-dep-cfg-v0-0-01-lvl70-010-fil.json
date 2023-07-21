@@ -1,0 +1,16 @@
+{
+  "resourceMetadataKEY": "yes",
+  "resourceEksClusterNameKEY": "jump-base-ubuntu-v22-04-1160-30-ami-sd",
+  "resourceDescriptionKEY": "This is an AMI Base Jump without any configuration, based on ubuntu version 22-04 dated June 22, 2023.",
+  "resourceTagKEY": {
+    "aliasNameKEY": "none",
+    "botNameKEY": "none",
+    "cfqridKEY": "1160-30-10605-ccr-ami-sd-aws",
+    "resourceTypeKEY": "ami",
+    "blockNumberKEY": "1160-30",
+    "applicationNameKEY": "sambar",
+    "environmentIDKEY": "sd",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "sdk"
+  }
+}
