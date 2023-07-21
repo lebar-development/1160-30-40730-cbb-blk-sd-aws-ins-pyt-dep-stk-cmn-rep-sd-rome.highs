@@ -1,0 +1,9 @@
+{
+  "resourceMetadataKEY": "yes",
+  "resourceNameKEY": "jump-base-1160-30-eni-sd",
+  "ifqridKEY": "1160-30-00015-mcr-eni-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1160-30-00015-mcr-eni-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber11500KEY": "00015",
+  "deletionProtectionFlag11500KEY": "none"
+}
